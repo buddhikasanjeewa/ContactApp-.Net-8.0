@@ -1,0 +1,6 @@
+@Angaular17WebApi1_HostAddress = http://localhost:5143
+
+GET {{Angaular17WebApi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
